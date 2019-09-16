@@ -1,0 +1,3 @@
+[submodule "Glados"]
+	path = Glados
+	url = git@github.com:christenkcheng/Glados.git
