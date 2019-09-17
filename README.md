@@ -1,2 +1,3 @@
 # Glados
-Added a line 9/17/19 12:57
+
+Deleted a line then added this line 9/17/19 13:11
